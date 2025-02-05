@@ -1,4 +1,4 @@
-package com.tadahi;
+package com.tadahi.common.entity;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
